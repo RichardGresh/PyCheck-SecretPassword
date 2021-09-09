@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+# Richard Gresham
+# CPSC 386-01
+# 2021-09-05
+# rgresham@csu.fullerton.edu
+# @RichardScience
+#
+# Lab 00-00
+#
 
 """ pycheck.py generates a secret code when executed on Linux """
 
